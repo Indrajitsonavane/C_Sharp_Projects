@@ -1,0 +1,12 @@
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\bin\Debug\QR_Code_Genration.exe.config
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\bin\Debug\QR_Code_Genration.exe
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\bin\Debug\QR_Code_Genration.pdb
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\bin\Debug\QRCoder.dll
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.csproj.AssemblyReference.cache
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.Properties.Resources.resources
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.csproj.GenerateResource.cache
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.csproj.CoreCompileInputs.cache
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.csproj.CopyComplete
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.exe
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.pdb
+E:\PROJECTS\QR_Code_Genration\QR_Code_Genration\obj\Debug\QR_Code_Genration.frm_Dynamic_Payments_UPI.resources
