@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TempModelStoreContainer" CdmEntityContainer="TempEntities">
+    <EntitySetMapping Name="Product_Details">
+      <EntityTypeMapping TypeName="TempModel.Product_Details">
+        <MappingFragment StoreEntitySet="Product_Details">
+          <ScalarProperty Name="Product_Id" ColumnName="Product_Id" />
+          <ScalarProperty Name="barcode" ColumnName="barcode" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Purchase_Prise" ColumnName="Purchase_Prise" />
+          <ScalarProperty Name="Sales_Price" ColumnName="Sales_Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

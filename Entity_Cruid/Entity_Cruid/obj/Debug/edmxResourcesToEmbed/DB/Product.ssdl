@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TempModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Product_Details">
+    <Key>
+      <PropertyRef Name="Product_Id" />
+    </Key>
+    <Property Name="Product_Id" Type="int" Nullable="false" />
+    <Property Name="barcode" Type="nvarchar" MaxLength="30" />
+    <Property Name="Product_Name" Type="varchar" MaxLength="120" Nullable="false" />
+    <Property Name="Purchase_Prise" Type="int" Nullable="false" />
+    <Property Name="Sales_Price" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TempModelStoreContainer">
+    <EntitySet Name="Product_Details" EntityType="Self.Product_Details" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
